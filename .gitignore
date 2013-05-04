@@ -1,0 +1,5 @@
+jetty/target/*/
+jetty/.project
+jetty/.classpath
+/**/.DS_Store
+.DS_Store
